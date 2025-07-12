@@ -32,7 +32,7 @@ pomodoro-timer/
 ├── tomato.png # Tomato image displayed in the timer UI
 └── main.py # Main Python source file
 
-✨ Future Improvements
+## ✨ Future Improvements
 Add a settings panel to customize work/break durations
 
 Add notification sounds at the end of each session
@@ -41,10 +41,10 @@ Show a summary of total Pomodoro cycles completed
 
 Save session history or log focus stats
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Inspired by the Pomodoro Technique®
 
 Made with 🍅 and Python by Abdulganiyu_Techie
@@ -61,7 +61,7 @@ No external packages required—everything runs with Python's built-in `tkinter`
 ### Running the App
 
 ```bash
-git clone https://github.com/your-username/pomodoro-timer.git
+git clone https://github.com/Abdulganiyu313/pomodoro-timer.git
 cd pomodoro-timer
 python main.py
 Make sure the tomato.png image is present in the same directory as main.py.
